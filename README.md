@@ -144,6 +144,7 @@ tags: []
          x = 5
          print(math.sqrt(x))   # Calculate the square root of 5
       ```
+
 10. File I/O:
 
    Reading from a file:
