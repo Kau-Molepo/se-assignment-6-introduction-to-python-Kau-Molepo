@@ -153,7 +153,7 @@ tags: []
             print(content)
       ```
 
-      Writing to a file:
+   Writing to a file:
       ```
          data = ["apple", "banana", "orange"]
          with open("output.txt", "w") as file: 
