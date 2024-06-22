@@ -152,7 +152,7 @@ tags: []
             content = file.read()
             print(content)
       ```
-      
+
       Writing to a file:
       ```
          data = ["apple", "banana", "orange"]
